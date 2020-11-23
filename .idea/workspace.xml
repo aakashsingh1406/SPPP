@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92239c6d-62e6-4f62-813e-4b4a4ef32883" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1kLb70IiMPF0vkbgrqSFUnJzJjF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92239c6d-62e6-4f62-813e-4b4a4ef32883" name="Default Changelist" comment="" />
+      <created>1605482647818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605482647818</updated>
+      <workItem from="1605482648877" duration="3297000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="314" y="239" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605482750829">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="314" y="239" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1605482750829" />
+    <state x="759" y="401" key="search.everywhere.popup" timestamp="1605482669954">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="759" y="401" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1605482669954" />
+  </component>
+</project>
